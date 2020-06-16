@@ -1,0 +1,6 @@
+c:\users\hp\documents\visual studio 2012\Projects\E1\E1\bin\Debug\E1.exe.config
+C:\Users\hp\documents\visual studio 2012\Projects\E1\E1\bin\Debug\E1.exe
+C:\Users\hp\documents\visual studio 2012\Projects\E1\E1\bin\Debug\E1.pdb
+C:\Users\hp\documents\visual studio 2012\Projects\E1\E1\obj\Debug\E1.csprojResolveAssemblyReference.cache
+C:\Users\hp\documents\visual studio 2012\Projects\E1\E1\obj\Debug\E1.exe
+C:\Users\hp\documents\visual studio 2012\Projects\E1\E1\obj\Debug\E1.pdb

@@ -1,0 +1,6 @@
+c:\users\hp\documents\visual studio 2012\Projects\E4\E4\bin\Debug\E4.exe.config
+C:\Users\hp\Documents\Visual Studio 2012\Projects\E4\E4\bin\Debug\E4.exe
+C:\Users\hp\Documents\Visual Studio 2012\Projects\E4\E4\bin\Debug\E4.pdb
+C:\Users\hp\Documents\Visual Studio 2012\Projects\E4\E4\obj\Debug\E4.csprojResolveAssemblyReference.cache
+C:\Users\hp\Documents\Visual Studio 2012\Projects\E4\E4\obj\Debug\E4.exe
+C:\Users\hp\Documents\Visual Studio 2012\Projects\E4\E4\obj\Debug\E4.pdb

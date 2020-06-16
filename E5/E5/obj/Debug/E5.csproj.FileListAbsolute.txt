@@ -1,0 +1,6 @@
+c:\users\hp\documents\visual studio 2012\Projects\E5\E5\bin\Debug\E5.exe.config
+c:\users\hp\documents\visual studio 2012\Projects\E5\E5\bin\Debug\E5.exe
+c:\users\hp\documents\visual studio 2012\Projects\E5\E5\bin\Debug\E5.pdb
+c:\users\hp\documents\visual studio 2012\Projects\E5\E5\obj\Debug\E5.exe
+c:\users\hp\documents\visual studio 2012\Projects\E5\E5\obj\Debug\E5.pdb
+C:\Users\hp\Documents\Visual Studio 2012\Projects\E5\E5\obj\Debug\E5.csprojResolveAssemblyReference.cache
